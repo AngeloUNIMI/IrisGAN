@@ -5,6 +5,10 @@ Pytorch source code for the paper:
 	M. Barni, R. Donida Labati, A. Genovese, V. Piuri, and F. Scotti, 
     "Iris deidentification with high visual realism for privacy protection on websites and social networks", 
     IEEE Access, 2021. ISSN: 2169-3536. [DOI: 10.1109/ACCESS.2021.3114588]
+
+Article:
+
+https://ieeexplore.ieee.org/document/9543669
 	
 Project page:
 
