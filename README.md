@@ -24,7 +24,6 @@ Citation:
         title = {Iris deidentification with high visual realism for privacy protection on websites and social networks},
         journal = {IEEE Access},
         year = {2021},
-        note = {Accepted},
         note = {2169-3536}
     }
 
