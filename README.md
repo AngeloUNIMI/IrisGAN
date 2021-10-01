@@ -15,7 +15,7 @@ Project page:
 https://iebil.di.unimi.it/irisGan/irisGan.html
     
 Outline:
-![Outline](https://iebil.di.unimi.it/irisGan/imgs/outline.jpg "Outline") 
+![Outline](https://iebil.di.unimi.it/irisGan/imgs/outline2.jpg "Outline") 
 
 Citation:
 
