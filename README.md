@@ -27,8 +27,7 @@ Citation:
     volume = {9},
     pages = {131995-132010},
     year = {2021},
-    note = {2169-3536}
-}
+    note = {2169-3536},}
 
 Main files:
 
